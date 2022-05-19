@@ -1,2 +1,2 @@
 # flask-django
-Practicas avanzadas de python con Flask y Django
+Practicas avanzadas de python con Flask
